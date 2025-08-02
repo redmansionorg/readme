@@ -68,6 +68,7 @@ cat _data/chains/eip155-192.json
 
 # View logo assets
 ls images/redmansion.png
+```
 
 ---
 
