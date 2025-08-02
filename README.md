@@ -69,15 +69,21 @@ cat _data/chains/eip155-192.json
 # View logo assets
 ls images/redmansion.png
 
-🧩 Contributing
+---
+
+## 🧩 Contributing
 We welcome developers, novelists, artists, and translators to help shape Redmansion into a global creative hub.
 
 Please see CONTRIBUTING.md for contribution guidelines.
 
-📜 License
+---
+
+## 📜 License
 This repository is licensed under the BSL 1.1 License.
 © 2025-present Redmansion Team
 
-🧠 About the Name
+---
+
+## 🧠 About the Name
 “Redmansion” is inspired by Dream of the Red Chamber, a masterpiece of Chinese literature. We carry its spirit into a new age — preserving thoughts, emotions, and stories on an immutable chain.
 
